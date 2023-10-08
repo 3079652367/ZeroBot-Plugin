@@ -42,6 +42,10 @@ import (
 
 	_ "github.com/FloatTech/zbputils/job" // 定时指令触发器
 
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/kokomi"  // kokomi原神面
+
+	
+
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
 	//                      ^^^^^^^高优先级区^^^^^^^                      //
